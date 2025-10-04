@@ -1,4 +1,5 @@
 venv/
+.venv/
 rollouts/activations/
 rollouts-test/activations/
 rollouts-big/activations/
